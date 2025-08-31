@@ -1,0 +1,30 @@
+# Environment variables
+.env
+.env.local
+.env.production
+
+# API keys and secrets
+client_secret.json
+token.json
+credentials.json
+
+# Generated files
+*.mp3
+*.mp4
+*.jpg
+*.png
+ai_image.jpg
+voice.mp3
+short.mp4
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
